@@ -1,2 +1,2 @@
 # QueryMongoRepository
-# QueryMongoRepository
+Exemplos de queryes mongo db 
